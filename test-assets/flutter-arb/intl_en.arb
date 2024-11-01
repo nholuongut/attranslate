@@ -1,0 +1,9 @@
+{
+  "@@locale": "en_US",
+  "@@context": "HomePage",
+  "title": "Hello World from intl_en.arb",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text"
+  }
+}

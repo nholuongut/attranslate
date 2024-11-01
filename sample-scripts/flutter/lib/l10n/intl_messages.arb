@@ -1,0 +1,12 @@
+{
+  "@@context": "Global attribute",
+  "apple": "Apple",
+  "pear": "Pear",
+  "@pear": {
+    "type": "text"
+  }
+}
+
+
+
+

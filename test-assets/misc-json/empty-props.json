@@ -1,0 +1,8 @@
+{
+  "inner.innerInner.one": "Four",
+  "inner.two": "Two",
+  "three": "Three",
+  "nullProp": null,
+  "emptyProp": "",
+  "spacesProp": "   "
+}
